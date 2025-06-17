@@ -10,11 +10,12 @@ else
     echo "You are running with root user"
 fi
 
-yum install mysql -y 
+yum install myyyyyyy -y 
 
 if [ $? -ne 0 ]
 then 
-   echo "ERROR: installation of mysql failed"
+   echo "ERROR: installation of dkfj failed"
+   exit 1
 else
    echo "Installing of mysql is successful"
 fi
