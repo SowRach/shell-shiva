@@ -2,7 +2,7 @@
 
 DATE=$(date)
 
-echo "Date is: $DATE"
+echo "The script started executing: $DATE"
 # this is a comment 
 
 PERSON1=$1
