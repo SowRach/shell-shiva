@@ -8,4 +8,4 @@ echo "Date is: $DATE"
 PERSON1=$1
 PERSON2=$2
 
-echo "Good morning"
+echo "Good morning $PERSON1 and $PERSON2"
