@@ -2,7 +2,7 @@
 
 DATE=$(date)
 
-echo "The script started executing: $(DATE)"
+echo "The script started executing: ${DATE}"
 
 FRUITS=("apple" "bannana" "orange")
 
